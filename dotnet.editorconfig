@@ -1,5 +1,6 @@
 ###############################
-# Core EditorConfig Options   #
+# Core EditorConfig Options - taken from 
+# https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference?view=vs-2019
 ###############################
 
 root = true
